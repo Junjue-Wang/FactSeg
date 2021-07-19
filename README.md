@@ -5,7 +5,9 @@
 <div align="center">
   <img src="https://github.com/Junjue-Wang/FactSeg/blob/master/imgs/framework.png"><br><br>
 </div>
-
+<div align="center">
+  <img src="https://github.com/Junjue-Wang/FactSeg/blob/master/imgs/result.png"><br><br>
+</div>
 
 This is an official implementation of FactSeg in our "TGRS paper
 FactSeg: Foreground Activation Driven Small Object Semantic Segmentation in Large-Scale Remote Sensing Imagery
@@ -25,6 +27,9 @@ If you use FactSeg in your research, please cite our coming TGRS paper.
   pages={1-16},
   doi={10.1109/TGRS.2021.3097148}}
 ```
+
+
+
 ## Getting Started
 ### Install SimpleCV
 
