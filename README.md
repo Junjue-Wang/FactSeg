@@ -27,7 +27,7 @@ If you use FactSeg in your research, please cite our coming TGRS paper.
   pages={1-16},
   doi={10.1109/TGRS.2021.3097148}}
 ```
-This is follow-up work of FarSeg (CVPR2020).
+This is follow-up work of our FarSeg (CVPR2020).
 ```text
 @inproceedings{zheng2020foreground,
   title={Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery},
