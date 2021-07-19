@@ -9,7 +9,7 @@
   <img src="https://github.com/Junjue-Wang/FactSeg/blob/master/imgs/result.png"><br><br>
 </div>
 
-This is an official implementation of FactSeg in our "TGRS paper
+This is an official implementation of FactSeg in our TGRS paper "
 FactSeg: Foreground Activation Driven Small Object Semantic Segmentation in Large-Scale Remote Sensing Imagery
 "
 
