@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/*
+dev/*
+data/__pycache__/
+module/__pycache__/
+module/dcn/__pycache__/
+module/dcn/functions/__pycache__/
+/download/
