@@ -1,6 +1,6 @@
 <h2 align="center">FactSeg: Foreground Activation Driven Small Object Semantic Segmentation in Large-Scale Remote Sensing Imagery</h2>
 
-<h5 align="right">by Ailong Ma, <a href="https://junjue-wang.github.io/homepage/">Junjue Wang</a>, <a href="http://rsidea.whu.edu.cn/">Yanfei Zhong</a> and <a href="http://zhuozheng.top/">Zhuo Zheng</a></h5>
+<h5 align="right">by Ailong Ma, <a href="https://junjue-wang.github.io/homepage/">Junjue Wang*</a>, <a href="http://rsidea.whu.edu.cn/">Yanfei Zhong*</a> and <a href="http://zhuozheng.top/">Zhuo Zheng</a></h5>
 
 <div align="center">
   <img src="https://github.com/Junjue-Wang/FactSeg/blob/master/imgs/framework.png"><br><br>
