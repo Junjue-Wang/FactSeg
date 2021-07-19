@@ -27,8 +27,16 @@ If you use FactSeg in your research, please cite our coming TGRS paper.
   pages={1-16},
   doi={10.1109/TGRS.2021.3097148}}
 ```
-
-
+This is follow-up work of FarSeg (CVPR2020).
+```text
+@inproceedings{zheng2020foreground,
+  title={Foreground-Aware Relation Network for Geospatial Object Segmentation in High Spatial Resolution Remote Sensing Imagery},
+  author={Zheng, Zhuo and Zhong, Yanfei and Wang, Junjue and Ma, Ailong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4096--4105},
+  year={2020}
+}
+```
 
 ## Getting Started
 ### Install SimpleCV
