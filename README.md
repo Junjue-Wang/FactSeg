@@ -3,7 +3,7 @@
 <h5 align="right">by Ailong Ma, <a href="https://junjue-wang.github.io/homepage/">Junjue Wang</a>, <a href="http://rsidea.whu.edu.cn/">Yanfei Zhong</a> and <a href="http://zhuozheng.top/">Zhuo Zheng</a></h5>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Z-Zheng/images_repo/master/farseg.png"><br><br>
+  <img src="https://github.com/Junjue-Wang/FactSeg/blob/master/imgs/framework.png"><br><br>
 </div>
 
 
