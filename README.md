@@ -17,7 +17,7 @@ FactSeg: Foreground Activation Driven Small Object Semantic Segmentation in Larg
 ## Citation
 If you use FactSeg in your research, please cite our coming TGRS paper.
 ```text
-@ARTICLE{FacSeg,
+@ARTICLE{FactSeg,
   author={Ma Ailong, Wang Junjue, Zhong Yanfei and Zheng Zhuo},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={FactSeg: Foreground Activation Driven Small Object Semantic Segmentation in Large-Scale Remote Sensing Imagery}, 
