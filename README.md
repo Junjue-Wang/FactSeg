@@ -10,7 +10,7 @@
 </div>
 
 This is an official implementation of FactSeg in our TGRS paper "
-<a href="https://ieeexplore.ieee.org/document/9497514">
+<a href="https://www.researchgate.net/publication/353357122_FactSeg_Foreground_Activation_Driven_Small_Object_Semantic_Segmentation_in_Large-Scale_Remote_Sensing_Imagery">
 FactSeg: Foreground Activation Driven Small Object Semantic Segmentation in Large-Scale Remote Sensing Imagery</a>"
 
 
